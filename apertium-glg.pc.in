@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-glg
+srcdir=@datarootdir@/apertium/apertium-glg
+
+Name: apertium-glg
+Description: Finite-state morphological transducer and constraint grammar for Galician 
+Version: @VERSION@
+
