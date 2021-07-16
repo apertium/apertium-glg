@@ -1,0 +1,14 @@
+# from https://wiki.apertium.org/wiki/Catal%C3%A0_i_gallec/Pending_tests
+Eu son.
+Ti es.
+El é.
+Ela é.
+Nós somos.
+Vós sodes.
+Eles son.
+Elas son.
+Deiche o libro ou non?
+Onte vinte pola rúa.
+Aquí o tes.
+Ninguén mo dixo.
+Vou á praia.

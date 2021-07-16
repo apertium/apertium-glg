@@ -1,0 +1,26 @@
+[95wg8oT_ewho#0] ^Eu/eu<prn><tn><p1><mf><sg>$ ^son/son<n><m><sg>/ser<vbser><pri><p3><pl>/ser<vbser><pri><p1><sg>$^./.<sent>$
+[/95wg8oT_ewho]
+[Ayoaks7F8r43#0] ^Vou/ir<vblex><pri><p1><sg>$ ^á/á<n><f><sg>/a<pr>+o<det><def><f><sg>$ ^praia/praia<n><f><sg>$^./.<sent>$
+[/Ayoaks7F8r43]
+[CJiThkkK7hhi#0] ^Ninguén/ninguén<prn><tn><mf><sg>$ ^mo/me<prn><pro><p1><mf><sg>+o<prn><pro><p3><m><sg>$ ^dixo/dicir<vblex><ifi><p3><sg>$^./.<sent>$
+[/CJiThkkK7hhi]
+[TeW7tKn6zwVH#0] ^Vós/vós<prn><tn><p2><mf><pl>$ ^sodes/ser<vbser><pri><p2><pl>$^./.<sent>$
+[/TeW7tKn6zwVH]
+[YmqzJnm5xmiz#0] ^El/o<prn><tn><p3><m><sg>/el<prn><tn><p3><m><sg>$ ^é/ser<vbser><pri><p3><sg>$^./.<sent>$
+[/YmqzJnm5xmiz]
+[df-IjQzKq9u7#0] ^Aquí/aquí<adv>$ ^o/o<detnt>/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^tes/ter<vblex><pri><p2><sg>$^./.<sent>$
+[/df-IjQzKq9u7]
+[gwBjy0jXZR6p#0] ^Elas/o<prn><tn><p3><f><pl>/el<prn><tn><p3><f><pl>/ser<vbser><pri><p2><sg>+o<prn><enc><p3><f><pl>$ ^son/son<n><m><sg>/ser<vbser><pri><p3><pl>/ser<vbser><pri><p1><sg>$^./.<sent>$
+[/gwBjy0jXZR6p]
+[hdXJzty1Ayml#0] ^Nós/nó<n><m><pl>/nós<prn><tn><p1><mf><pl>$ ^somos/ser<vbser><pri><p1><pl>$^./.<sent>$
+[/hdXJzty1Ayml]
+[j89C4T0UXco6#0] ^Onte/onte<adv>$ ^vinte/vinte<num><mf><sp>/vir<vblex><ifi><p1><sg>+o<prn><enc><p2><mf><sg>/ver<vblex><ifi><p1><sg>+o<prn><enc><p2><mf><sg>$ ^pola/pór<vblex><pri><p2><sg>+o<prn><enc><p3><f><sg>/poñer<vblex><pri><p2><sg>+o<prn><enc><p3><f><sg>/por<pr>+o<det><def><f><sg>$ ^rúa/rúa<n><f><sg>$^./.<sent>$
+[/j89C4T0UXco6]
+[nfidmYIQBYk9#0] ^Ti/ti<prn><tn><p2><mf><sg>$ ^es/ser<vbser><pri><p2><sg>$^./.<sent>$
+[/nfidmYIQBYk9]
+[r7gB3-zDnhnG#0] ^Deiche/dar<vblex><ifi><p1><sg>+che<prn><enc><p2><mf><sp>$ ^o/o<detnt>/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^libro/libro<n><m><sg>/librarse<vblex><pron><pri><p1><sg>$ ^ou/ou<cnjcoo>$ ^non/non<adv>/non<n><m><sg>$^?/?<sent>$
+[/r7gB3-zDnhnG]
+[sfd_7mxkpHVS#0] ^Eles/o<prn><tn><p3><m><pl>/el<prn><tn><p3><m><pl>$ ^son/son<n><m><sg>/ser<vbser><pri><p3><pl>/ser<vbser><pri><p1><sg>$^./.<sent>$
+[/sfd_7mxkpHVS]
+[zNYYofzrKvfy#0] ^Ela/o<prn><tn><p3><f><sg>/el<prn><tn><p3><f><sg>/ser<vbser><pri><p2><sg>+o<prn><enc><p3><f><sg>$ ^é/ser<vbser><pri><p3><sg>$^./.<sent>$
+[/zNYYofzrKvfy]
